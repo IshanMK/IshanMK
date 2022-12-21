@@ -26,5 +26,11 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ishan-maduranga"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ishan-maduranga"></a>
 <a href="mailto:ishanmaduranga271@gmail.com"><img src="https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:ishanmaduranga271@gmail.com"></a>
 <br>
+
+<br/>
+
+[![Ishan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IshanMK&theme=react-dark)](https://github.com/IshanMK/github-readme-activity-graph)
+
+<br/>
 <br>
 </div>

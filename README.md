@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://i.ibb.co/CtP0k94/ezgif-4-fa886ba1bf.gif" height="180"></p>
 <h2 align="center"> Ishan Maduranga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IshanMK" alt="IshanMK" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=IshanMK&icon=9&color=1)](https://visitcount.itsvg.in)
 
 </h2>
  <div align="center">
@@ -33,8 +34,5 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IshanMK&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=IshanMK&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
